@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me through atinkering
-- 😄 Pronouns: gracefull and cheerfull
-- ⚡ Fun fact: likes to make everyone like the way i am
+  
 
 <!---
 atinkering/atinkering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
