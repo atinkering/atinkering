@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atinkering
-- 👀 I’m interested in coding and hacking
+- 👀 I’m interested in building websites
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
   
